@@ -1,0 +1,45 @@
+x=10
+y=12
+
+#Code starts here
+
+# greater than
+if x>y:
+    is_greater=True
+    print(is_greater)
+else:
+    is_greater=False
+    print(is_greater)
+# lesser than
+if x<y:
+    is_less=True
+    print(is_less)
+else:
+    is_less=False
+    print(is_less)
+# equal to
+if x==y:
+    is_equal=True
+    print(is_equal)
+else:
+    is_equal=False
+    print(is_equal)
+
+
+# greater than or equal to
+
+if x>=y:
+    is_greater_equal=True
+    print(is_greater_equal)
+else:
+    is_greater_equal=False
+    print(is_greater_equal)
+# lesser than or equal to
+
+if x<=y:
+    is_less_equal=True
+    print(is_less_equal)
+else:
+    is_less_equal=False
+    print(is_less_equal)
+# Code ends here
