@@ -1,0 +1,32 @@
+# initialize variables
+name, title = 'Monty', 'Python'
+
+# Code starts here
+# full name
+is_f = False
+full_name=name + " "+ title
+print(full_name)
+# first name
+first_name = full_name.split()[0]
+print(first_name)
+# length of full name
+len_name=len(full_name)-1
+print(len_name)
+# Is "f" in full name?
+if "f" in full_name:
+    is_f = True
+    print(is_f)
+else:
+    is_f = False
+    print(is_f)
+
+# Split into first name and title
+first_name = full_name.split()[0]
+#print(first_name)
+title = full_name.split()[1]
+#print(title)
+split=[first_name,title]
+print(split)
+
+
+# Code ends here
