@@ -1,0 +1,13 @@
+# Assign variable names
+name="John"
+age=12
+# Check types
+type_age=type(age)
+type_name=type(name)
+
+
+# print out types
+print(type_age)
+print(type_name)
+
+# Code ends here
