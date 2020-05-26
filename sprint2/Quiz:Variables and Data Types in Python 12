@@ -1,0 +1,47 @@
+
+\
+2.1 Python: Getting Started
+2.1.9 Quiz: Variables and Data Types in Python
+1.
+If num= '12' , what is the data type of num?
+
+string
+
+Explanation:
+Since '12' is enclosed within quotes, it is treated as a string.
+
+2.
+What will be the output of the following code:
+
+       l=[1,3,5,7,5] 
+       l.remove(5)
+       print(l)
+[1,3,7,5]
+
+[1,3,7,5]
+
+Explanation:
+The first 5 will be removed.
+
+3.
+Which of the following statements are true about Python dictionaries?
+
+Dictionaries are ordered set of objects
+
+Items in dictionaries are accessed via keys and not via their position.
+
+Items in dictionaries are accessed via keys and not via their position.
+
+Dictionaries don't support the sequence operation of the sequence data types like strings, etc
+
+Explanation:
+Dictionaries are not ordered set of objects.
+Values of a dictionary can be of different Python data types.
+
+4.
+If var_1=(1,1,1) and var_2=(2,2,2), var_1+var_2 is equal to (3,3,3)?
+
+False
+
+Explanation:
+var_1+var_2 is equal to (1, 1, 1, 2, 2, 2)
