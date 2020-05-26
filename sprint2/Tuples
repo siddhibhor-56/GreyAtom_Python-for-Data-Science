@@ -1,0 +1,23 @@
+# create tuple of weights
+weights = (70, 80, 45, 50)
+
+# Code starts here
+
+# create new tuple of weights
+weights_new=(70,80,48,50)
+#weights = weights[ : 2] + (48 ,) + weights[2 + 1 : ]
+print(weights_new)
+
+# calculate maximum and minimum weights
+maximum=max(weights_new)
+minimum=min(weights_new)
+print(maximum)
+print(minimum)
+# calculate sum of weights
+sum_weights=sum(weights_new)
+print(sum_weights)
+
+# calculate mean
+mean_new=sum_weights/4
+print(mean_new)
+# Code ends here
