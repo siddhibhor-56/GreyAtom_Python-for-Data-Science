@@ -1,0 +1,6 @@
+P=1000
+r=10
+n=2
+A= P * (pow((1 + r/ 100),n))
+interest= A - P
+print("%.2f" % interest)
