@@ -1,0 +1,29 @@
+1.
+Which of the following statements uses a Machine Learning Model?
+
+Automatically tagging your new Facebook photos
+
+Determining whether an incoming email is spam or not
+
+1.Determining whether an incoming email is spam or not
+
+Automatically tagging your new Facebook photos
+
+Explanation:
+Both options 1 and 3 are example of classification problem where after seeing a lot of spam message, non-spam message, your photo and others photo, models learns how to recognize a spam, non-spam message or your photo.
+
+2.
+Machine Learning cannot be applied to every kind of task. True or False?
+
+True
+
+Explanation:
+ML has been most successful when we have very large amounts of carefully labelled data to be used for training. ML is still not very effective when it comes to deal with problems without labeled data or no data.
+
+3.
+Can machines learn autonomously without any human intervention?
+
+No
+
+Explanation:
+This is where ML comes in picture. It teches machines how to learn and humans apply ML techniques on machines to make them learn.
